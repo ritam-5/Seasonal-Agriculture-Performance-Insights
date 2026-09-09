@@ -83,7 +83,7 @@ agricultural planning.
 ```
 .
 ├──seasonal_agriculture_performance_dataset.csv   # raw dataset (4,000 farm records)
-├── Seasonal_Agriculture_Performance_Insights.ipynb # main analysis notebook
+├── Seasonal_Agriculture_Performance_Analysis.ipynb # main analysis notebook
 ├── images/                                             # (optional) exported chart images
 ├── requirements.txt
 ├── LICENSE
@@ -104,7 +104,7 @@ cd YOUR_REPO_NAME
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-jupyter notebook notebooks/Seasonal_Agriculture_Performance_Insights.ipynb
+jupyter notebook notebooks/Seasonal_Agriculture_Performance_Analysis.ipynb
 ```
 
 ## Dataset
