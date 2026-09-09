@@ -1,4 +1,4 @@
-# 🌾 Seasonal Agriculture Performance Analysis
+# 🌾 Seasonal Agriculture Performance Insights
 
 A data analytics project that goes beyond "average yield by season" to answer sharper,
 decision-relevant questions about seasonal agricultural performance — using a composite
